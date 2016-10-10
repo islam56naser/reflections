@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -Initializing a repository creates a .git directory that will contain versions of tracked files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-the staging area defines which files to track
